@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "top.dsbbs2.mm.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "TestMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
